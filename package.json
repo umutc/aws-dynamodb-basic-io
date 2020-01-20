@@ -1,0 +1,15 @@
+{
+  "name": "aws-dynamodb-basic-io",
+  "version": "1.0.0",
+  "description": "Linux Academy - Amazon DynamoDB Deep Dive: Using a DynamoDB Table Basic IO",
+  "main": "index.js",
+  "repository": "git@github.com:umutc/aws-dynamodb-basic-io.git",
+  "author": "Umut ÇELİK <mail@umutcelik.com.tr>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.606.0"
+  }
+}
